@@ -1,0 +1,15 @@
+.Body h1{
+    text-align: center;
+}
+
+.Body img {
+    float: left;
+    width: 40.33%;
+    padding: 43px;
+}
+.Body {
+    background-image:url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content; 
+}
